@@ -13,7 +13,7 @@ from streamlit_option_menu import option_menu
 
 #warnings.filterwarnings("ignore")
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout="wide", page_title="EDA with LangChain and OpenAI GPT-3.5")
 
 st.markdown("""
