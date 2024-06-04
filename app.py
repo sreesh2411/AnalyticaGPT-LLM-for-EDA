@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 import scipy.stats as stats
 from streamlit_option_menu import option_menu
 
-warnings.filterwarnings("ignore")
+#warnings.filterwarnings("ignore")
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout="wide", page_title="EDA with LangChain and OpenAI GPT-3.5")
